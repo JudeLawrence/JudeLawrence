@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and Webflow.
+I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and Webflow. I'm currently freelancing, but am also looking for a fulltime Ruby on Rails job.
 
 <h3>Languages & Frameworks</h3>
 <div>
@@ -22,7 +22,12 @@ I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and W
   <a href="https://fly.io/"><img src="/assets/flyio.svg" height="40px"></a>
   <a href="https://planetscale.com/"><img src="/assets/planetscale-icon.png" height="40px"></a>
   <a href="https://www.figma.com/"><img src="/assets/figma-icon.svg" height="40px"></a>
+  <a href="https://www.postgresql.org/"><img src="/assets/postgresql-icon.svg" height="40px"></a>
+  <a href="https://www.mysql.com/"><img src="/assets/mysql-icon.svg" height="40px"></a>
+  <a href="https://www.trello.com/"><img src="/assets/trello-icon.svg" height="40px"></a>
+  <a href="https://www.linear.app/"><img src="/assets/linear-icon.svg" height="40px"></a>
 </div>
+
 <h3>Get in touch / Follow me</h3>
 <a href="https://www.linkedin.com/in/jude-lawrence/"><img src="/assets/linkedin-icon.svg" height="40px"></a>
 <a href="https://dev.to/judelawrence"><img src="/assets/dev-icon.svg" height="40px"></a>
@@ -30,20 +35,18 @@ I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and W
 
 <h3>Currently Learning 🌱</h3>
 <ul>
-  <li>
-     I’m currently learning Rails ViewComponents
-  </li>
+  <li>Rails ViewComponents</li>
   <li>Vue.js</li>
 </ul>
 
 <p align="left" style="opacity:0"> <img src="https://komarev.com/ghpvc/?username=JudeLawrence&label=Profile%20views&color=0e75b6&style=flat" alt="aminatmak" /> </p>
 
+![Top Langs](https://github-readme-stats-azure-eight-89.vercel.app/api/top-langs/?username=JudeLawrence&layout=pie)
+
 <!--
 **JudeLawrence/JudeLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
