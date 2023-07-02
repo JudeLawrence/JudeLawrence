@@ -2,31 +2,42 @@
 
 I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and Webflow.
 
-<h2>Languages & Frameworks</h2> 
+<h3>Languages & Frameworks</h3>
 <div>
   <img src="/assets/html5-icon.svg" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" height="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" height="40px">
+  <img src="/assets/rails-icon.svg" height="40">
+  <img src="/assets/css3-icon.svg" height="40px">
+  <img src="/assets/javascript-icon.svg" height="40px">
+  <img src="/assets/markdown-icon.svg" height="40px">
+  <img src="/assets/sass-icon.svg" height="40px">
+  <img src="/assets/tailwindcss-icon.svg" height="40px">
+  <a href="https://github.com/hotwired/stimulus"> <img src="/assets/stimulus-icon.png" height="40px"></a>
 </div>
 
-<h2>Tools and Tech that I use</h2> 
+<h3>Tools and Tech that I use</h3> 
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg" height="30px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-plain.svg" height="40px">
-<h3>📫 How to reach me:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" height="40px">
+  <a href="https://webflow.com/"><img src="/assets/webflow-icon.svg" height="40px"></a>
+  <a href="https://railway.app/"><img src="/assets/railway-icon.svg" height="40px"></a>
+  <img src="/assets/redis-icon.svg" height="40px">
+  <a href="https://fly.io/"><img src="/assets/flyio.svg" height="40px"></a>
+  <a href="https://planetscale.com/"><img src="/assets/planetscale-icon.png" height="40px"></a>
+  <a href="https://www.figma.com/"><img src="/assets/figma-icon.svg" height="40px"></a>
 </div>
-<hr>
+<h3>Get in touch / Follow me</h3>
+<a href="https://www.linkedin.com/in/jude-lawrence/"><img src="/assets/linkedin-icon.svg" height="40px"></a>
+<a href="https://dev.to/judelawrence"><img src="/assets/dev-icon.svg" height="40px"></a>
+<a href="mailto:judesmail@gmail.com"><img src="/assets/gmail-icon.svg" height="35px"></a>
+
+<h3>Currently Learning 🌱</h3>
 <ul>
   <li>
-    🌱 I’m currently learning Rails ViewComponents
+     I’m currently learning Rails ViewComponents
   </li>
+  <li>Vue.js</li>
 </ul>
+
+<p align="left" style="opacity:0"> <img src="https://komarev.com/ghpvc/?username=JudeLawrence&label=Profile%20views&color=0e75b6&style=flat" alt="aminatmak" /> </p>
+
 <!--
 **JudeLawrence/JudeLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
