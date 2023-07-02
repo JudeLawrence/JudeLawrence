@@ -5,13 +5,13 @@ I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and W
 <h3>Languages & Frameworks</h3>
 <div>
   <img src="/assets/html5-icon.svg" height="40px">
-  <img src="/assets/rails-icon.svg" height="40">
-  <img src="/assets/css3-icon.svg" height="40px">
-  <img src="/assets/javascript-icon.svg" height="40px">
   <img src="/assets/markdown-icon.svg" height="40px">
+  <img src="/assets/css3-icon.svg" height="40px">
   <img src="/assets/sass-icon.svg" height="40px">
   <img src="/assets/tailwindcss-icon.svg" height="40px">
+  <img src="/assets/javascript-icon.svg" height="40px">
   <a href="https://github.com/hotwired/stimulus"> <img src="/assets/stimulus-icon.png" height="40px"></a>
+  <img src="/assets/rails-icon.svg" height="40">
 </div>
 
 <h3>Tools and Tech that I use</h3> 
@@ -41,7 +41,7 @@ I'm a Kiwi living in Dubai who loves building solutions with Ruby on Rails and W
 
 <p align="left" style="opacity:0"> <img src="https://komarev.com/ghpvc/?username=JudeLawrence&label=Profile%20views&color=0e75b6&style=flat" alt="aminatmak" /> </p>
 
-![Top Langs](https://github-readme-stats-azure-eight-89.vercel.app/api/top-langs/?username=JudeLawrence&layout=pie)
+![Top Langs](https://github-readme-stats-azure-eight-89.vercel.app/api/top-langs/?username=JudeLawrence&layout=compact)
 
 <!--
 **JudeLawrence/JudeLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
